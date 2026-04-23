@@ -9,7 +9,7 @@ Single-page portfolio website for Himanshu Malik, adapted from the provided refe
 - Dark, responsive one-page portfolio
 - Animated gravity-stars background effect
 - Sections for About, Projects, Experience, Education, and Contact
-- Uses Himanshu's GitHub profile avatar and project links
+- Uses Himanshu's profile photo and project links
 - Includes the uploaded resume at `assets/Himanshu_Malik_Resume.docx`
 - Adds LinkedIn: `https://linkedin.com/in/himanshumalik0102/`
 - Links the MSP-derived project to the planned public repo: `Document-Review-Assistant`
