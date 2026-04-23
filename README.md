@@ -1,5 +1,7 @@
 # Himanshu Malik Portfolio
 
+[Live Website](https://sunny-0102.github.io/HimanshuMalik_Portfolio/)
+
 Single-page portfolio website for Himanshu Malik, adapted from the provided reference portfolio structure and rebuilt with Himanshu's GitHub/project information.
 
 ## Overview
